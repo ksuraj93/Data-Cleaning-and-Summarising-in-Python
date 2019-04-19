@@ -44,15 +44,19 @@ The attribute "job" is plotted in a pie chart to depict the various categories. 
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/age.jpg)
 
 The histogram plot is chosen for depiction of the above data. As histogram shows values in a continuous manner which easy for comparison of peaks and downs. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/married.jpg)
 
-A pie chart is used to show the attributes such as married, single, divorced and unknown. It is used to describe the categorical data. 
+A pie chart is used to show the attributes such as married, single, divorced and unknown. It is used to describe the categorical data.
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/university%20degree.jpg)
 
 A pie is also used for depicting the previous and this graph as there are many values to compare. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/default.jpg)
 
 The bar chart is used to represent the Default attribute. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/housing.jpg)
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/loan.jpg)
 
@@ -60,40 +64,50 @@ The Bar chart is used to show the Loan column.
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/contact.jpg)
 
 A Bar graph is used here since there are only two parameters to compare. The graph is plotted as Frequency vs Contact. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/month.jpg)
 
-A continuous bar graph is used above so as to show various categories of months of the year. The month is plotted over frequency.  
+A continuous bar graph is used above so as to show various categories of months of the year. The month is plotted over frequency. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/week.jpg)
 
 The bar chart is used to show the Week attribute. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/bank%20contract%20duration.jpg)
 
 The Bar chart is used to represent the Campaign attribute. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/campaign.jpg)  
 
 The Bar chart is used to represent the Previous attribute. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/previous.jpg) 
 
 The Bar chart is used to represent the Poutcome attribute. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/poutcome.jpg) 
 
 The boxplot chart is used to represent the emp.var.rate attribute. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/emp.var.rate.jpg) 
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/cons.price.index.jpg)
 
-The boxplot is used to represent the cons.price.idx,euribor3m and cons.conf.idx attributes. 
+The boxplot is used to represent the cons.price.idx,euribor3m and cons.conf.idx attributes.
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/cons.conf.idx.jpg) 
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/euribor3m.jpg)
 
 A Bar chart used to depict the below 2 bar attributes. 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/1600.jpg)
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/3500%20yes%20no.jpg)
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/bocplot%20grouped%20by%20education.jpg) 
 
 Scatter plot is used to represent the relation between Campaign and Duration 
+
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/duration%20campaign.jpg)
 
-Scatter Matrix
+### Scatter Matrix
 ![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/Scatter%20matrix%20big.jpg) 
 
 ## DISCUSSION 
