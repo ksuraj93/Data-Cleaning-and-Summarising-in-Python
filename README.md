@@ -38,41 +38,64 @@ The story goes this way, the data is first loaded from a csv file into a pandas 
 7.	The fillna function is used to fill-up all the missing values in each attribute by its mean value. 
  
 ## DATA EXPLORATION 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/blue%20collar.jpg)
+
 The attribute "job" is plotted in a pie chart to depict the various categories. It is used to show the frequency of the data. 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/age.jpg)
+
 The histogram plot is chosen for depiction of the above data. As histogram shows values in a continuous manner which easy for comparison of peaks and downs. 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/married.jpg)
+
 A pie chart is used to show the attributes such as married, single, divorced and unknown. It is used to describe the categorical data. 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/university%20degree.jpg)
+
 A pie is also used for depicting the previous and this graph as there are many values to compare. 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/default.jpg)
+
 The bar chart is used to represent the Default attribute. 
- 
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/housing.jpg)
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/loan.jpg)
+
 The Bar chart is used to show the Loan column. 
- 
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/contact.jpg)
+
 A Bar graph is used here since there are only two parameters to compare. The graph is plotted as Frequency vs Contact. 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/month.jpg)
+
 A continuous bar graph is used above so as to show various categories of months of the year. The month is plotted over frequency.  
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/week.jpg)
+
 The bar chart is used to show the Week attribute. 
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/bank%20contract%20duration.jpg)
 
 The Bar chart is used to represent the Campaign attribute. 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/campaign.jpg)  
+
 The Bar chart is used to represent the Previous attribute. 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/previous.jpg) 
+
 The Bar chart is used to represent the Poutcome attribute. 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/poutcome.jpg) 
+
 The boxplot chart is used to represent the emp.var.rate attribute. 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/emp.var.rate.jpg) 
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/cons.price.index.jpg)
+
 The boxplot is used to represent the cons.price.idx,euribor3m and cons.conf.idx attributes. 
-   
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/cons.conf.idx.jpg) 
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/euribor3m.jpg)
+
 A Bar chart used to depict the below 2 bar attributes. 
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/1600.jpg)
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/3500%20yes%20no.jpg)
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/bocplot%20grouped%20by%20education.jpg) 
 
 Scatter plot is used to represent the relation between Campaign and Duration 
-  
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/duration%20campaign.jpg)
+
 Scatter Matrix
- 
+![](https://github.com/ksuraj93/Data-Cleaning-and-Summarising-in-Python/blob/master/Scatter%20matrix%20big.jpg) 
+
 ## DISCUSSION 
 The reason behind performing this analysis on the data is that the given bank dataset is based on phone calls and may contain errors and wrong information which we must not encounter while performing analysis on the data. So, the part of data cleaning is done to cleanse the dirty dataset so as to convert it to its pure form on which data exploration is done to get valuable insights from it. Data in its raw form is always invaluable unless and until cleaned and analyse.  
 
@@ -81,13 +104,13 @@ Take for instance, the customers who have spent an average time on their call ha
  
 ## CONCLUSION 
 The beneath are the focuses that are outlined from the above analysis: 
-•	The customer’s confidence index is not a deciding factor in whether a customer will opt for a term deposit or not. The next time the campaign is conducted, it is advised not to consider this factor for analysis. 
-•	On seeing the number of customer contacted, a large amount of customer was contacted in the month of May whereas, extremely few customers were contacted for this campaign in the month of December. The graph showed a decreasing trend. It is suggested that the customers need to be contacted at regular time intervals. 
-•	The customers having a collateral and the customers who don’t have collateral are contacted almost equally which shows that the bank does not see the collateral as a criterion for opening bank deposits.  
-•	The level of educational qualification that the customer has does not depend upon the customers confidence index. 
-•	To sum up, the whole marketing campaign is concluded as a failure since a majority of customers did not open term deposits. 
+-	The customer’s confidence index is not a deciding factor in whether a customer will opt for a term deposit or not. The next time the campaign is conducted, it is advised not to consider this factor for analysis. 
+-	On seeing the number of customer contacted, a large amount of customer was contacted in the month of May whereas, extremely few customers were contacted for this campaign in the month of December. The graph showed a decreasing trend. It is suggested that the customers need to be contacted at regular time intervals. 
+-	The customers having a collateral and the customers who don’t have collateral are contacted almost equally which shows that the bank does not see the collateral as a criterion for opening bank deposits.  
+-	The level of educational qualification that the customer has does not depend upon the customers confidence index. 
+-	To sum up, the whole marketing campaign is concluded as a failure since a majority of customers did not open term deposits. 
 Future developments and applications: 
-A few aspects are not collected properly for data analysis. The previous campaign shows that the data is not collected properly as a majority of it remains unknown. Going forward, this data can be further used for business improvements. 
+- A few aspects are not collected properly for data analysis. The previous campaign shows that the data is not collected properly as a majority of it remains unknown. Going forward, this data can be further used for business improvements. 
  
 ## REFERENCES 
 1.	https://en.wikipedia.org/wiki/Euribor 
